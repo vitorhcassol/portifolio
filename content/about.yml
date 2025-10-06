@@ -1,0 +1,29 @@
+title: Sobre mim
+description: Saiba mais sobre minha jornada como Designer UX/UI e Desenvolvedor Front-End e minha paixão por criar experiências digitais intuitivas.
+content: |
+  Olá, sou **Vitor Cassol**, Designer UX/UI e Desenvolvedor Front-End de Campo Grande - MS. Há três anos, venho me dedicando à criação de produtos digitais que unem funcionalidade, estética e uma experiência verdadeiramente intuitiva para o usuário. Minha trjetória começou na **Universidade Federal de Mato Grosso do Sul**, onde me formei em Engenharia de Software. Foi lá que descobri minha dupla paixão por conectar o idioma visual do design à lógica do código — duas linguagens que, quando trabalhadas em harmonia, resultam em experiências digitais completas e significativas. Hoje, busco constantemente aperfeiçoar essa integração entre design e desenvolvimento, acreditando que os melhores produtos nascem da compreensão profunda entre beleza e implementação.
+
+  ### Minha Filosofia de Design
+
+  Acredito que um bom design nasce da combinação entre funcionalidade, estética e empatia. Para mim, cada interface deve ser intuitiva e agradável, mas acima de tudo resolver de forma simples as necessidades do usuário.
+
+  Como UI/UX designer e desenvolvedor front-end especializado em Vue.js e Nuxt.js, busco unir o melhor dos dois mundos: o cuidado com a experiência do usuário e a precisão no código. Gosto de transformar ideias em protótipos, testar, ajustar e entregar soluções que realmente fazem sentido no dia a dia de quem usa. Minha meta é sempre criar produtos que sejam claros, consistentes e relevantes, onde a tecnologia não seja uma barreira, mas sim um facilitador.
+
+  ### O que me motiva
+
+  O que mais me motiva no meu trabalho é o constante aprendizado e o desafio de transformar ideias complexas em soluções simples e elegantes. Poucas coisas são tão gratificantes quanto ver um design ganhar vida e perceber que ele está tornando a experiência digital de alguém mais fluida, intuitiva e agradável.
+
+  ### Fora da Tela
+
+  Minha paixão pela cultura urbana vai além do trabalho.
+  Sou um explorador da música, sempre em busca de novos sons e artistas que me inspiram.
+  Adoro viajar para festivais de música, onde posso vivenciar diferentes culturas e me conectar com pessoas que compartilham essa mesma paixão.
+  A arte digital me encanta pela forma como se mistura ao cotidiano das cidades, criando experiências visuais únicas.
+  Essas descobertas musicais e viagens alimentam constantemente minha criatividade e influenciam minha maneira de enxergar e praticar o design.
+  Obrigado por passar por aqui — sinta-se à vontade para explorar meus projetos ou entrar em contato se quiser trocar ideias ou colaborar!
+
+images:
+  - src: /about/art.jpeg
+    alt: Minha última arte
+  - src: /about/sp-trip.jpeg
+    alt: Visitando São Paulo	

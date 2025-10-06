@@ -1,0 +1,86 @@
+seo:
+  title: "Vitor Cassol - Engenheiro de Software"
+  description: "Olá, sou Vitor Cassol, engenheiro de software de Campo Grande. Especializo-me em criar interfaces que unem beleza e funcionalidade, transformando ideias em experiências digitais que fazem sentido para as pessoas. Meu trabalho é sobre conectar design e tecnologia de forma natural e eficiente."
+title: "Olá, sou Vitor Cassol Engenheiro de Software"
+description: "Crio experiências digitais que transformam. Atuo em Campo Grande, transformando ideias em realidade através de design e tecnologia."
+hero:
+  links:
+    - label: "Vamos conversar?"
+      to: https://linkedin.com/in/vitorcassol
+      color: "neutral"
+  images:
+    - src: /hero/random-6.png
+      alt: Case Image 1
+    - src: /hero/random-2.png
+      alt: Case Image 2
+    - src: /hero/random-3.png
+      alt: Case Image 3
+    - src: /hero/random-4.png
+      alt: Case Image 4
+    - src: /hero/random-5.png
+      alt: Case Image 5
+    - src: /hero/random-1.png
+      alt: Case Image 6
+    - src: /hero/random-7.avif
+      alt: Random Image 7
+    - src: /hero/random-8.avif
+      alt: Random Image 8
+    - src: /hero/random-9.avif
+      alt: Random Image 9
+about:
+  title: "Sobre Mim"
+  description: |
+    Como designer UX/UI e desenvolvedor front-end com 2 anos de experiência, uso minha formação em Engenharia de Software para criar experiências digitais centradas no usuário.
+    Minha abordagem une estratégia criativa com conhecimento técnico, transformando ideias em produtos digitais que funcionam bem e fazem sentido para quem os usa.
+experience:
+  title: Experiência Profissional
+  items:
+    - position: "Designer UX/UI"
+      date: "2023 - 2024"
+      company:
+        name: Mega Jr.
+        url: "https://www.megajunior.com.br"
+        color: "#C83C24"
+    - position: "Desenvolvedor"
+      date: "2023 - Atualmente"
+      company:
+        name: Inferência TI
+        color: "#007FAC"
+testimonials:
+  - quote: "A entrega superou o que imaginávamos. O trabalho em equipe foi essencial para transformar ideias em um produto funcional, intuitivo e com excelente qualidade."
+    author:
+      name: 'Vinícius Medeiros'
+      description: 'Fundador & CEO em Inferência TI'
+  - quote: "O grupo demonstrou um excelente trabalho em equipe durante todo o desenvolvimento. O produto final não apenas atendeu aos requisitos, mas se destacou pela qualidade da entrega e pela maturidade da execução."
+    author:
+      name: 'Maria Istela Cagnin'
+      description: 'Professora e Orientadora em UFMS'
+  - quote: "O redesign da landing page ficou incrível. O protótipo refletiu nossas necessidades e apresentou uma identidade visual muito mais forte e alinhada ao que representamos como empresa."
+    author:
+      description: 'Diretora da Thêmis Consultoria Jurídica em UEMS'
+blog:
+  title: "Latest Articles"
+  description: "Some of my recent thoughts"
+faq:
+  title: Perguntas Frequentes
+  description: Answers to common questions about my process and services.
+  categories:
+    - title: Serviços & Processo
+      questions:
+        - label: Quais serviços você oferece?
+          content: |
+            Sou especialista em design UX/UI e desenvolvimento front-end. Isso inclui pesquisa de usuário, wireframing, prototipação interativa, criação de interfaces de usuário intuitivas, construção de sites e aplicativos web responsivos (especialmente com Vue.js/Nuxt.js), e desenvolvimento de sistemas de design. Meu objetivo é criar experiências digitais semiativas de conceito a implantação.
+        - label: Qual é o seu processo de design?
+          content: |
+            Meu processo é colaborativo e iterativo, geralmente envolvendo etapas como Descoberta & Pesquisa, Ideia & Prototipação, Teste de Usuário, Design Visual, e colaboração próxima com equipes de desenvolvimento durante a implementação. Ajusto o processo com base nas necessidades do projeto, sempre focando em soluções centradas no usuário.
+        - label: Você trabalha com startups?
+          content: |
+            Claro! Eu gosto de trabalhar com startups para ajudar a moldar a visão do produto e criar interfaces de usuário amigáveis desde o início. Posso adaptar meu processo para se ajustar ao ambiente de startup em alta velocidade.
+    - title: Sobre Mim
+      questions:
+        - label: Com o que você mais gosta sobre seu trabalho?
+          content: |
+            Eu amo o desafio de resolver problemas complexos através de design e tecnologia. É incrivel ver pessoas interagirem com algo que eu criei e acharem realmente útil e fácil de navegar. Preencher a lacuna entre as necessidades do usuário e as possibilidades técnicas é o que realmente me deixa entusiasmado.
+        - label: Quais são os seus hobbies fora do trabalho?
+          content: |
+            Quando não estou projetando ou programando, mergulho no universo da cultura urbana, explorando música, arte digital e as expressões criativas que movem as cidades. Gosto de descobrir novos artistas, experimentar diferentes gêneros musicais e me inspirar nas formas como a arte digital se conecta com o cotidiano.
