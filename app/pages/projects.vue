@@ -14,8 +14,6 @@ const { data: projects } = await useAsyncData('projects', () => {
   return queryCollection('projects').all()
 })
 
-console.log(projects.value)
-
 const { global } = useAppConfig()
 
 useSeoMeta({
