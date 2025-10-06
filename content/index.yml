@@ -41,11 +41,13 @@ experience:
         name: Mega Jr.
         url: "https://www.megajunior.com.br"
         color: "#C83C24"
+        logo: "i-lucide-building-2"
     - position: "Desenvolvedor"
       date: "2023 - Atualmente"
       company:
         name: Inferência TI
         color: "#007FAC"
+        logo: "i-lucide-code"
 testimonials:
   - quote: "A entrega superou o que imaginávamos. O trabalho em equipe foi essencial para transformar ideias em um produto funcional, intuitivo e com excelente qualidade."
     author:

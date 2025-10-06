@@ -1,0 +1,9 @@
+seo:
+  title: "Blog - Vitor Cassol"
+  description: "Artigos e pensamentos sobre design, desenvolvimento e tecnologia"
+title: "Blog"
+description: "Alguns dos meus pensamentos e artigos recentes sobre design, desenvolvimento e tecnologia"
+links:
+  - label: "Ver todos os artigos"
+    to: "/blog"
+    color: "primary"
